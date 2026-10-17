@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-Our team competed in the **FirstByte 2026 Datathon, organized by UBC BOLT**, advancing to the semifinal round.
+Our team competed in the **FirstByte 2026 Datathon, organized by [UBC BOLT](https://www.instagram.com/bolt.ubc/)**, advancing to the semifinal round.
 
 We used Python, pandas, NumPy, and Altair to analyze airline financial and operational data, identify drivers of declining profitability, and develop data-driven recommendations for improving operational efficiency.
 
