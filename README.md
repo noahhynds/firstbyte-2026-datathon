@@ -51,9 +51,13 @@ Our recommendations considered financial feasibility, customer accessibility, im
 
 ## Final Presentation
 
-**[View Our Semifinal Presentation (PDF)](presentation.pdf)**
+[![NorthByte Airlines — FirstByte 2026 Semifinal Presentation](preview.png)](presentation.pdf)
 
-The presentation includes our analysis, visualizations, recommendations, implementation strategy, and supporting methodology.
+**[View Full Presentation (PDF)](presentation.pdf)**
+
+Our 21-slide presentation covers the financial analysis,
+route-level profitability, proposed turnaround strategy,
+implementation plan, and supporting methodology.
 
 ## Tools & Skills
 
