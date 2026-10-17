@@ -1,15 +1,12 @@
-
 # FirstByte Datathon 2026 | Semifinalist
 
 **Team Cranky Coders | NorthByte Airlines Profitability Analysis**
 
-Python · pandas · NumPy · Altair · Matplotlib · Business Analytics
-
 ## Project Overview
 
-Our team competed in the **FirstByte 2026 Datathon**, advancing to the semifinal round.
+Our team competed in the **FirstByte 2026 Datathon, organized by UBC BOLT**, advancing to the semifinal round.
 
-We analyzed financial and operational data for NorthByte Airlines to investigate declining profitability despite increasing revenue. Using Python, we examined ticket transactions, flight operating costs, and route-level performance to identify key inefficiencies and develop actionable business recommendations.
+We used Python, pandas, NumPy, and Altair to analyze airline financial and operational data, identify drivers of declining profitability, and develop data-driven recommendations for improving operational efficiency.
 
 Our findings were presented to a panel of judges as part of a proposed airline turnaround strategy.
 
