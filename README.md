@@ -51,8 +51,6 @@ Our recommendations considered financial feasibility, customer accessibility, im
 
 ## Final Presentation
 
-[![NorthByte Airlines Presentation](preview.png)](Cranky%20Coders.pdf)
-
 **[View Full Presentation (PDF)](Cranky%20Coders.pdf)**
 
 
