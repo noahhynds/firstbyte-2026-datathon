@@ -63,6 +63,15 @@ Our recommendations considered financial feasibility, customer accessibility, im
 
 **Team Cranky Coders** — FirstByte Datathon 2026 Semifinalists
 
+### Team Members
+
+| Name | GitHub |
+|---|---|
+| Derek Lee | [@Derek1267](https://github.com/Derek1267) |
+| Noah Hynds| [@noahhynds](https://github.com/noahhynds) |
+| Yohei Ono | [@2005yoheiUBC](https://github.com/2005yoheiUBC) |
+| Jayden Lieu | [@jlieu02](https://github.com/jlieu02) |
+
 Thank you to the FirstByte organizers and judges for the opportunity to participate.
 
 *This repository showcases our team's competition presentation. Source datasets and exploratory notebooks are not included.*
