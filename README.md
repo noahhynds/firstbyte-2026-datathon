@@ -33,7 +33,7 @@ Our work focused on data cleaning, exploratory data analysis, financial performa
 
 ## Key Recommendations
 
-We developed a phased strategy to improve profitability while maintaining regional connectivity.
+We developed a strategy to improve profitability while maintaining regional connectivity.
 
 | Recommendation | Projected Annual Profit Improvement |
 |---|---:|
